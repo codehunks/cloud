@@ -1,0 +1,26 @@
+#categories
+{
+	position:fixed;
+	overflow-y: scroll;
+	height:100%;
+}
+
+#categories h3
+{
+	color: red;
+}
+
+
+#published
+{
+	float: left;
+}
+
+.section,.section2,.section3
+{
+}
+
+#catk
+{
+	display:none;
+}
